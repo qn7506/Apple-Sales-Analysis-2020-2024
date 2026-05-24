@@ -14,6 +14,8 @@ using SQL and visualization using Tableau.
 - `products.csv` — product details (product_id, product_name, category_id, launch_date, price)
 - `category.csv` — product categories (category_id, category_name)
 - `stores.csv` — store locations (store_id, store_name, city, country)
+> ⚠️ Note: `sales.csv` and `stores.csv` are not included in this repository 
+> due to file size limitations.
 
 ## 🔍 Key Questions Answered
 1. What are the top 5 products by units sold?
